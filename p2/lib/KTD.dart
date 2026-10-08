@@ -16,7 +16,7 @@ class KTD extends StatelessWidget {
             mainAxisAlignment: .center,
             children: [
               CircleAvatar(
-                backgroundImage:AssetImage('assets/images/eisen4.jpg'),
+                backgroundImage:AssetImage('assets/images/eisen2.jpg'),
                 radius: 75.0,
               ),
               Text('EISEN',
